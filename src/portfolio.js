@@ -56,7 +56,10 @@ const skillsSection = {
     ),
     emoji("⚡ Backend Development Using Node.js, Express.js and MongoDB"),
     emoji(
-      "⚡ Java Development using Java,Spring Boot, postgreSQL and Hibernate"
+      "⚡ Java Development using Java,Spring Boot and postgreSQL"
+    ),
+    emoji(
+      " ⚡ Manual + Automation Testing, API Testing, Load + Performance Testing using Jmeter, Postman, CloudRunner, Swagger, Selenium"
     )
   ],
 
