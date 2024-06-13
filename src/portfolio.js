@@ -139,7 +139,7 @@ const educationInfo = {
       schoolName: "ST. Xavier's College, Ranchi",
       logo: require("./assets/images/XavierRanchi.png"),
       subHeader: "Bachelor of Computer Application",
-      duration: "July 2018 - August 2021",
+      duration: "July 2017 - August 2020",
       desc: "Got 8+ CGPA",
     }
   ]
@@ -238,7 +238,7 @@ const bigProjects = {
     },
     {
       projectName: "Customer churn prediction in Telecommunication",
-      projectDesc: "Applied predictive models using the IBM customer churn data set containing data of 7500 customers, leveraging machine learning algorithms to forecast customer churn, enabling customer retention strategies and reducing churn",
+      projectDesc: "Applied predictive models using the IBM customer churn data set containing data of 7500 customers, leveraging machine learning algorithms to forecast customer churn, enabling customer retention strategies and reducing churn.",
       footerLink: [
         {
           name: "Github link",
@@ -248,7 +248,7 @@ const bigProjects = {
     },
     {
       projectName: "Medibuddy Smart Disease predictor",
-      projectDesc: "Spearheaded the development of a cutting-edge website leveraging predictive analytics to detect breast cancer, diabetes, heart disease, kidney disease, malaria, and pneumonia",
+      projectDesc: "Spearheaded the development of a cutting-edge website leveraging predictive analytics to detect breast cancer, diabetes, heart disease, kidney disease, malaria, and pneumonia.",
       footerLink: [
         {
           name: "Github link",
@@ -285,7 +285,7 @@ const achievementSection = {
     {
       title: "Backend Development and APIs",
       subtitle:
-        "Completed the certification on Backend Development using Node.js, Express.js, MongoDB and Mongoose",
+        "Completed the certification on Backend Development using Node.js, Express.js, MongoDB and Mongoose.",
       image: require("./assets/images/freeCodeCamp.png"),
       imageAlt: "FreeCodeCamp Logo",
       footerLink: [
@@ -298,7 +298,7 @@ const achievementSection = {
 
     {
       title: "Become a RESTful API Developer",
-      subtitle: "Completed the certification on RESTful API Development through LikedIn Learning. In this Learning path, I learned about REST APIs, Web Security- OAuth and OpenID, API Testing and Validation",
+      subtitle: "Completed the certification on RESTful API Development through LikedIn Learning. In this Learning path, I learned about REST APIs, Web Security- OAuth and OpenID, API Testing and Validation.",
       image: require("./assets/images/linkedin.png"),
       imageAlt: "LinkedIn Learning Logo",
       footerLink: [
