@@ -136,7 +136,7 @@ const educationInfo = {
       schoolName: "ST. Xavier's College, Ranchi",
       logo: require("./assets/images/XavierRanchi.png"),
       subHeader: "Bachelor of Computer Application",
-      duration: "July 2018 - August 2021",
+      duration: "July 2017 - November 2020",
       desc: "Got 8+ CGPA",
     }
   ]
