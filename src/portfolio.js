@@ -380,9 +380,8 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Open for Opportunities, Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+91 7321955257",
-  email_address: "neeraj.kumar.mca24@gmail.com"
+    "Open for Opportunities.",
+  email_address: "neerajlag1998@gmail.com"
 };
 
 // Twitter Section
